@@ -4,14 +4,14 @@
 }
 
 body{
-    background-color: rgba(0, 0, 0, 0.308);
+    background-color: rgba(236, 136, 136, 0.308);
 
 }
 
 .headbar{
     background: #FFFFFF;
     box-shadow: 0px 4px rgba(0, 0, 0, 0.11);
-    height: 70px;
+    height: 60px;
     width: 100%;
     position: fixed;
     display: flex;
